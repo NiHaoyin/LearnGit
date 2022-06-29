@@ -1,1 +1,1 @@
-print('winner')
+print('loser')
