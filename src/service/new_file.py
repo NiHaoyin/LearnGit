@@ -6,3 +6,5 @@ print('local')
 print('local')
 
 print('local')
+
+print('local')
