@@ -5,3 +5,4 @@ print('remote')
 print('local')
 print('local')
 
+print('local')
